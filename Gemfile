@@ -15,5 +15,6 @@ gem 'bootstrap-sass', '~> 3.3.1'
 gem 'autoprefixer-rails'
 gem 'will_paginate', '~> 3.0.6'
 gem 'will_paginate-bootstrap'
+gem 'puma'
 gem 'pg', group: :production
 gem 'rails_12factor', group: :production
